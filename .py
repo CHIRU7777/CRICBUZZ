@@ -25,7 +25,7 @@ driver = webdriver.Chrome('/home/srijithreddy/Desktop/Srijith reddy/chromedriver
 driver.get("https://www.cricbuzz.com/")
 driver.find_element_by_xpath('//*[@id="hm-scag-mtch-blk"]/ul/li[1]/a').click()
 drivera.get("https://web.whatsapp.com/")
-target = '"Meghanites🔥🤙🌚"'
+target = '"Aryanujas"'
 #Replace the below string with your own message
 string = "Arey wicket ra!!!"
 string2 = "six ra!!!"
